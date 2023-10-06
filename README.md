@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+> My name is Xu Guangzhao! As we've seen, computer science is changing the world. I want to create infinite value in a limited life. So I'm going to keep exploring.
 <!--
 **XuGuangZhao1999/XuGuangZhao1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
