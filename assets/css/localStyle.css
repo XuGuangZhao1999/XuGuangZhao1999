@@ -15,3 +15,10 @@ header {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
+
+.ma-shan-zheng-regular {
+    font-family: "Ma Shan Zheng", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
